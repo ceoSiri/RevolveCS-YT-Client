@@ -1,4 +1,4 @@
-# youtube_clone
+# RevolveCS-YT-Client
 
 ## Project setup
 ```
