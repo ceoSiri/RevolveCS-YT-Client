@@ -1,4 +1,4 @@
-# RevolveCS-YT-Client
+# RevolveCS-YT-Client OAuth2 Web Example
 
 ## Project setup
 ```
